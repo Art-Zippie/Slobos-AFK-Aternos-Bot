@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "WatermelonCity.aternos.me",
+    "port": 40832,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "IK Ben De Bot Die Er Voor Zorgt Dat De Server 24/7 Aanstaat",
+        "Report Mij Niet Aan Art Ik Zorg Voor 24/7 Server",
+        "IK Ben 24/7 Hier Zodat De Server Aanstaat"
       ]
     },
     "chat-log": true,
